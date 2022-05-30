@@ -4,7 +4,7 @@
 
 <p align="center">
     <br>
-    <img src="https://github.com/rogedev/rogedev/blob/master/hadder.gif" width="280px">
+    <img src="https://github.com/rogedev/rogedev/blob/main/hadder.gif" width="280px">
     <br><br>
 </p>
 
