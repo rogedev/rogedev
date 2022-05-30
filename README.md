@@ -26,8 +26,13 @@
 <h2 align="center">Hi 👋, I'm <a href='https://github.com/rogedev'>rogedev</a> </h2>
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
+
+- 💻 I’m currently learning about **Backend**
+
 - 💬 Ask me about **HTML , CSS, JavaScript**
+
 - 📫 How to reach me **apteruno@gmail.com**
+
 - ⚡ Fun fact: **I like movies and music**
 
 <p>
