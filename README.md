@@ -37,7 +37,7 @@
 
 <p>
     <img align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=rogedev&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=rogedev&show_icons=true&layout=compact"
         alt="rogedev" />
 </p>
 <h3 align="left">Languages and Tools:</h3>
