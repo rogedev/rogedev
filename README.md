@@ -1,5 +1,6 @@
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=rogedev" alt="rogedev" />
+    <img src="https://wakatime.com/badge/user/9a059eb6-42ab-455d-9423-03fa1236b47f.svg" alt="rogedev" />
 </p>
 
 <p align="center">
