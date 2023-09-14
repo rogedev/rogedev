@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on open source projects
 
-- 📫 How to reach me **apteruno@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/rogedev/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
