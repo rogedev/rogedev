@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Roge
+# Hi, I'm Rogelio 👋
 
 - 💻 I'm a Software Engineer
 - 👯 I'm looking to collaborate on open source projects
