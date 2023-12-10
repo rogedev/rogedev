@@ -32,7 +32,7 @@ With a background in web development, I enjoy turning complex problems into simp
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![](https://github-readme-stats-nine-rust-70.vercel.app/api/top-langs/?username=rogedev&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rogedev&layout=compact&include_all_commits=true&count_private=true&langs_count=4)
 
 
 ## 📫 Let's Connect
