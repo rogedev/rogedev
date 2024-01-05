@@ -1,7 +1,7 @@
 # Hi, I'm Rogelio 👋
 
 I'm a passionate software engineer. I love building software and exploring new technologies. 
-With a background in web development, I enjoy turning complex problems into simple, beautiful, and intuitive solutions. I'm looking to collaborate on open source projects.
+With background in web development, I enjoy turning complex problems into simple, beautiful, and intuitive solutions. I'm looking to collaborate on open source projects.
 
 ## 🛠️ Tech Stack
 
